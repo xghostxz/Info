@@ -1,5 +1,3 @@
-Claro, aquí tienes el contenido con las imágenes actualizadas:
-
 ### ```1940S: PRIMERAS COMPUTADORAS ELECTRÓNICAS Y LOS PRIMEROS PASOS EN PROGRAMACIÓN```
 - **1943-1944: COLOSSUS Y ENIAC**
 1. **Colossus** fue desarrollada en Gran Bretaña durante la Segunda Guerra Mundial para descifrar mensajes encriptados de los alemanes. Aunque su programación no era lo que entendemos hoy, representó un gran avance en el uso de máquinas para resolver problemas complejos de manera automatizada.
@@ -157,3 +155,5 @@ Contenido Multimedia usado:
 ```py
                      "Espero que te sirva ❤ "  
 ```
+
+!img[](https://qph.cf2.quoracdn.net/main-qimg-55c6f49d612a8ff7213811e156c7e111)
