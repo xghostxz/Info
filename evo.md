@@ -139,7 +139,7 @@ Fue lanzado por Apple como un lenguaje de programación para sus plataformas, di
 
 
 ---
-Redactador por: [𝑥𝐺𝐻𝑂𝑆𝑇.𝑑𝑒𝑣](https://linktr.ee/ghost.gg.off)
+Redactado por: [𝑥𝐺𝐻𝑂𝑆𝑇.𝑑𝑒𝑣](https://linktr.ee/ghost.gg.off)
 ---
 
 Contenido del documento:
