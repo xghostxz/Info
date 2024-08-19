@@ -156,4 +156,4 @@ Contenido Multimedia usado:
                      "Espero que te sirva ❤ "  
 ```
 
-!img[](https://qph.cf2.quoracdn.net/main-qimg-55c6f49d612a8ff7213811e156c7e111)
+![](https://qph.cf2.quoracdn.net/main-qimg-55c6f49d612a8ff7213811e156c7e111)
