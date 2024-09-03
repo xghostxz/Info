@@ -1,7 +1,8 @@
 # LIBRO DE LA TECNICA - PARTES DE UN COMPUTADOR.
 
-## indice
-> ## Partes Externas del Computador
+```py
+ indice
+ ## Partes Externas del Computador
 > 1. Monitor
 > 2. Teclado
 > 3. Ratón
@@ -9,8 +10,7 @@
 > 5. Altavoces
 > 6. Unidad de DVD/Blu-ray
 > 7. Puertos USB
->
-> ## Partes Internas del Computador
+ ## Partes Internas del Computador
 > 1. Placa Base (Motherboard)
 > 2. Procesador (CPU)
 > 3. Memoria RAM
@@ -22,6 +22,7 @@
 > 9. Tarjeta de Red (NIC)
 > 10. BIOS/UEFI
 > 11. Unidad de Almacenamiento Externo
+```
 
 
 
